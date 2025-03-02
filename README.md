@@ -30,7 +30,7 @@
    Если джобы выполнены, то заходим на Docker Hub и смотрим, выполнилась ли задача или нет.
 
 
-В **main.yml** в конце нужно заменить имя пользователя и пароль от своего DockerHub аккаунта
+В **main.yml** в конце нужно заменить имя пользователя и пароль от своего DockerHub аккаунта/
 
 #### Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-262424?style=for-the-badge&logo=Telegram)](https://t.me/ffraud)
